@@ -1,0 +1,106 @@
+ID,complaint_text,category,priority
+1,There's been no water supply in our colony since last night.,Water,High
+2,Street lights on MG Road are not working for 3 days.,Electricity,Medium
+3,Garbage has not been collected from Sector 7 for over a week.,Sanitation,High
+4,Water pressure is too low during mornings in Gandhi Nagar.,Water,Medium
+5,Broken electric pole leaning dangerously near bus stop.,Electricity,High
+6,"Open manhole near school gate, very risky for children.",Sanitation,High
+7,Sewage water is overflowing near the temple area.,Sanitation,High
+8,Repeated power cuts every evening in Shivaji Colony.,Electricity,Medium
+9,Tap water is muddy and smells bad.,Water,High
+10,"No dustbins in the public park, litter everywhere.",Sanitation,Low
+11,Street lights remain on during the daytime.,Electricity,Low
+12,Water tank in our apartment has not been cleaned in months.,Water,Medium
+13,Mosquito breeding in open drains near clinic.,Sanitation,High
+14,Loudspeaker noise from nearby hall every night.,Noise Pollution,Medium
+15,Transformer sparks near the children’s park.,Electricity,High
+16,Roadside garbage burning causing air pollution.,Sanitation,Medium
+17,Water leakage from overhead tank in Municipal School.,Water,Medium
+18,Fluctuating voltage damaging home appliances.,Electricity,High
+19,No water in public toilets near bus stand.,Water,Medium
+20,Unauthorized loud DJ music past midnight in neighborhood.,Noise Pollution,High
+21,Open dumping of construction waste in residential area.,Sanitation,Medium
+22,"Water pipes leaking near main road, causing traffic issues.",Water,High
+23,Street lights flickering continuously near police station.,Electricity,Medium
+24,Foul smell from nearby drainage line in market area.,Sanitation,High
+25,No water supply for the last 2 days in our street.,Water,High
+26,Transformer oil leaking near electric pole.,Electricity,High
+27,Sweeping not done regularly in our locality.,Sanitation,Medium
+28,Construction noise early in the morning is disturbing us.,Noise Pollution,Medium
+29,Drain near our house is always clogged and stinks.,Sanitation,High
+30,Residents leaving water taps open in public washrooms.,Water,Low
+31,Public tap broken and leaking continuously.,Water,Medium
+32,Water pipeline laying work causing inconvenience.,Water,Medium
+33,Water supply irregular during peak hours.,Water,High
+34,Main pipe burst near community center.,Water,Low
+35,Public tap broken and leaking continuously.,Water,High
+36,Public tap broken and leaking continuously.,Water,High
+37,Water supply irregular during peak hours.,Water,Low
+38,Water supply irregular during peak hours.,Water,Medium
+39,Water supply irregular during peak hours.,Water,Medium
+40,Main pipe burst near community center.,Water,Medium
+41,Public tap broken and leaking continuously.,Water,Low
+42,Main pipe burst near community center.,Water,Medium
+43,Water supply irregular during peak hours.,Water,High
+44,Water pipeline laying work causing inconvenience.,Water,Medium
+45,Water pipeline laying work causing inconvenience.,Water,Medium
+46,Short circuit reported in street junction box.,Electricity,Low
+47,Electric meter sparking in house lane.,Electricity,High
+48,Electric meter sparking in house lane.,Electricity,Low
+49,Electric meter sparking in house lane.,Electricity,Low
+50,Electric meter sparking in house lane.,Electricity,High
+51,Electric meter sparking in house lane.,Electricity,Medium
+52,No power backup in public library.,Electricity,Low
+53,"Transformer constantly buzzing, may explode.",Electricity,Medium
+54,"Transformer constantly buzzing, may explode.",Electricity,Medium
+55,"Transformer constantly buzzing, may explode.",Electricity,Medium
+56,Electric meter sparking in house lane.,Electricity,Medium
+57,Electric meter sparking in house lane.,Electricity,Low
+58,"Transformer constantly buzzing, may explode.",Electricity,Low
+59,No power backup in public library.,Electricity,Medium
+60,Electric wires hanging low near school.,Electricity,High
+61,Public toilet needs urgent cleaning.,Sanitation,High
+62,Waste dumped illegally in empty plot.,Sanitation,Low
+63,Dead animal not removed from road for 3 days.,Sanitation,High
+64,Public toilet needs urgent cleaning.,Sanitation,Low
+65,Dead animal not removed from road for 3 days.,Sanitation,Low
+66,Waste dumped illegally in empty plot.,Sanitation,High
+67,Street not cleaned for over 10 days.,Sanitation,Medium
+68,Waste dumped illegally in empty plot.,Sanitation,Low
+69,Street not cleaned for over 10 days.,Sanitation,High
+70,Public toilet needs urgent cleaning.,Sanitation,High
+71,Waste dumped illegally in empty plot.,Sanitation,High
+72,Waste dumped illegally in empty plot.,Sanitation,Low
+73,Waste dumped illegally in empty plot.,Sanitation,High
+74,Public toilet needs urgent cleaning.,Sanitation,Medium
+75,Dead animal not removed from road for 3 days.,Sanitation,Medium
+76,"Factory siren too loud, disturbing nearby houses.",Noise Pollution,High
+77,"Factory siren too loud, disturbing nearby houses.",Noise Pollution,High
+78,Unregistered political rally using huge sound systems.,Noise Pollution,Medium
+79,Unregistered political rally using huge sound systems.,Noise Pollution,Medium
+80,Daily prayer loudspeaker starts at 4 AM.,Noise Pollution,High
+81,Repeated honking by auto drivers in no-honking zone.,Noise Pollution,Medium
+82,Daily prayer loudspeaker starts at 4 AM.,Noise Pollution,High
+83,Daily prayer loudspeaker starts at 4 AM.,Noise Pollution,Medium
+84,Repeated honking by auto drivers in no-honking zone.,Noise Pollution,High
+85,Unregistered political rally using huge sound systems.,Noise Pollution,High
+86,Repeated honking by auto drivers in no-honking zone.,Noise Pollution,High
+87,Unregistered political rally using huge sound systems.,Noise Pollution,High
+88,Repeated honking by auto drivers in no-honking zone.,Noise Pollution,Medium
+89,Unregistered political rally using huge sound systems.,Noise Pollution,Medium
+90,Street vendors use loudspeakers at high volume.,Noise Pollution,Medium
+91,Potholes on main highway causing accidents.,Road Safety,Medium
+92,Speed breakers without paint or signs.,Road Safety,High
+93,"Footpath encroached, pedestrians walking on road.",Road Safety,High
+94,Traffic signals not working at major intersection.,Road Safety,Medium
+95,"Footpath encroached, pedestrians walking on road.",Road Safety,High
+96,Traffic signals not working at major intersection.,Road Safety,Medium
+97,"Footpath encroached, pedestrians walking on road.",Road Safety,High
+98,Speed breakers without paint or signs.,Road Safety,High
+99,No zebra crossing near school zone.,Road Safety,Medium
+100,"Footpath encroached, pedestrians walking on road.",Road Safety,Medium
+101,Traffic signals not working at major intersection.,Road Safety,High
+102,Traffic signals not working at major intersection.,Road Safety,Medium
+103,Traffic signals not working at major intersection.,Road Safety,Medium
+104,Potholes on main highway causing accidents.,Road Safety,Medium
+105,"Footpath encroached, pedestrians walking on road.",Road Safety,Medium
